@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.onnx
+.u2net/
+.DS_Store
+Thumbs.db

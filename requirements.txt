@@ -1,0 +1,4 @@
+rembg[cpu]>=2.0.60
+Pillow>=10.0.0
+customtkinter>=5.2.2
+tkinterdnd2>=0.3.0
